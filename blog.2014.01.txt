@@ -1,3 +1,4 @@
 spring mvc 手册 ： http://docs.spring.io/spring/docs/3.0.x/reference/mvc.html
 Git-基础-撤消操作 : http://git-scm.com/book/zh/Git-%E5%9F%BA%E7%A1%80-%E6%92%A4%E6%B6%88%E6%93%8D%E4%BD%9C
 ubuntu安装virtualbox安装winxp : http://www.wikihow.com/Install-Windows-XP-on-Ubuntu-with-VirtualBox
+十步完全理解SQL ： http://flycars001.iteye.com/blog/2003537
