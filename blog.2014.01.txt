@@ -5,3 +5,4 @@ ubuntu安装virtualbox安装winxp : http://www.wikihow.com/Install-Windows-XP-on
 activiti中文手册 : http://www.mossle.com/docs/activiti/
 UUID算法 ： http://www.ietf.org/rfc/rfc4122.txt
 mysql中文手册：http://www.mysqlpub.com/onlinemanual/doc/refman/5.1/zh/index.html
+MySQL索引背后的数据结构及算法原理: http://blog.codinglabs.org/articles/theory-of-mysql-index.html
