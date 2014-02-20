@@ -3,4 +3,7 @@
 阿狸开源项目地址：https://github.com/alibaba
 
 腾讯前段开源项目地址：https://github.com/AlloyTeam
+
 百度开源项目地址：https://github.com/ecomfe
+
+网易开源项目地址：https://github.com/netease
