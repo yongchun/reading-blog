@@ -13,3 +13,5 @@
 大众点评开源项目地址：https://github.com/dianping
 
 黄亿华的个人博客：http://my.oschina.net/flashsword
+
+用云存储实现对云计算的监控:http://www.taobaotesting.com/blogs/2519
